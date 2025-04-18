@@ -32,7 +32,7 @@ greet_responses = ["hi", "hey", "hello", "I'm glad you're here!"]
 # Additional responses for specific questions
 extra_responses = {
     "how are you": "I'm just a bot, but I'm feeling great! How about you?",
-    "who are you": "I'm Robo , Your Chatbot"
+    "who are you": "I'm Robo , Your Chatbot",
     "your name": "I'm Robo, your friendly chatbot assistant.",
     "what is your name": "You can call me Robo!",
     "who created you": "I was created by a human who loves AI and automation.",
